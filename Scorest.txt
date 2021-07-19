@@ -1,0 +1,394 @@
+P1:13
+P2:62
+P3:77
+P4:74
+P5:11  de:0
+  de:0
+  de:0
+  de:0
+  de:0
+  de:0
+  de:0
+  de:0
+de:0
+de:0
+de:0
+de:0
+de:0
+de  :13
+de    :16
+de    :16
+de     :16
+de     :16
+de     :16
+de      :16
+de      :16
+de       :16
+de       :16
+cd     :12
+cd     :12
+cd     :12
+cd     :12
+cd     :12
+Isac     :13
+Isac      :26
+Isac       :39
+Isac        :52
+ Isac        :65
+      Isac                                                                                :152
+      Isac                                                                                :152
+      Isac                                                                                       :164
+      Isac                                                                                        :164
+xscd      :6
+xscd      :6
+ x scd      :6
+ x scd      :6
+  x s cd      :9
+  x s cd      :12
+c de :13
+  cde:13
+    cde:26
+      cde:39
+       cde:52
+        cde:65
+         cde:78
+          cde:91
+           cde:104
+            cde:117
+             cde:130
+              cde:143
+               cde:156
+                cde:169
+                 cde:182
+                  cde:195
+de :13
+de :13
+cc e3 :13
+cc e3   :26
+cc e3    :39
+cc e3     :52
+cc e3      :65
+cc e3       :78
+ cc e3       :91
+ e3:13
+de :13
+     de :25
+     de :25
+     de :25
+     de :25
+     de :25
+d  e:13
+ de:3
+ de:3
+de :13
+de  :3
+de  :3
+de  :3
+de  :3
+de  :3
+de  :3
+de  :3
+de  :3
+de  :3
+de  :3
+de  :3
+de  :3
+ de:6
+ de:6
+ de:6
+ de:6
+ de:6
+ de:6
+ de:6
+de :18
+de :18
+de :18
+de :18
+de :18
+de :18
+wq:0
+wq:0
+wq:0
+wq:0
+wq:0
+wq:0
+wq:0
+wq:0
+wq:0
+wq:0
+wq:0
+wq:0
+wq:0
+wq:0
+wq:0
+wq:0
+wq:0
+wq:0
+wq:0
+wq:0
+wq:0
+wq:0
+wq:0
+wq:0
+wq:0
+wq:0
+wq:0
+wq:0
+wq:0
+wq:0
+wq:0
+wq:0
+wq:0
+wq:0
+wq:0
+wq:0
+wq:0
+wq:0
+wq:0
+wq:0
+wq:0
+wq:0
+wq:0
+wq:0
+wq:0
+wq:0
+wq:0
+wq:0
+wq:0
+wq:0
+wq:0
+wq:0
+wq:0
+wq:0
+wq:0
+wq:0
+wq:0
+wq:0
+wq:0
+wq:0
+wq:0
+wq:0
+wq:0
+wq:0
+wq:0
+wq:0
+wq:0
+wq:0
+wq:0
+wq:0
+wq:0
+wq:0
+wq:0
+wq:0
+wq:0
+wq:0
+wq:0
+wq:0
+wq:0
+wq:0
+wq:0
+wq:0
+wq:0
+wq:0
+wq:0
+wq:0
+wq:0
+wq:0
+wq:0
+wq:0
+wq:0
+wq:0
+wq:0
+wq:0
+wq:0
+wq:0
+wq:0
+wq:0
+wq:0
+wq:0
+Isac  :13
+Isac    :6
+Isac    :6
+Isac    :6
+Isac     :6
+Isac      :6
+Isac       :6
+Isac        :6
+Isac         :6
+Isac          :6
+Isac          :6
+Isac           :6
+Isac           :6
+Isac           :6
+Isac           :6
+Isac           :6
+Isac           :6
+Isac           :6
+Isac           :6
+Isac           :6
+Isac           :6
+           Isac           :6
+                                       Isac           :6
+                                                                                                     Isac           :6
+                                                                                                     Isac           :6
+                                                                                                     Isac           :6
+                                                                                                     Isac           :6
+                                                                                                     Isac           :6
+                                                                                                     Isac           :6
+                                                                                                     Isac           :6
+                                                                                                     Isac           :6
+                                                                                                     Isac           :6
+Isac   :13
+Isac    :26
+      I   sac                    :68
+      I   sac                    :68
+      I   sac                    :68
+Isac  :3
+Isac  :3
+Isac  :3
+Isac  :3
+Isac  :3
+Isac  :3
+Isac  :3
+Isac  :3
+Isac  :3
+Isac  :3
+Isac  :3
+Isac  :3
+Isac  :3
+Isac  :3
+Isac  :3
+Isac  :3
+Isac  :3
+Isac  :3
+Isac  :3
+Isac  :3
+Isac  :3
+Isac  :3
+Isac  :3
+Isac  :3
+Isac  :3
+Isac  :3
+Isac  :3
+Isac  :3
+Isac  :3
+Isac  :3
+Isac  :3
+Isac  :3
+Isac  :3
+Isac  :3
+Isac  :3
+Isac  :3
+Isac  :3
+Isac  :3
+Isac  :3
+Isac  :3
+Isac  :3
+Isac  :3
+Isac  :3
+Isac  :3
+Isac  :3
+Isac  :3
+Isac  :3
+Isac  :3
+Isac  :3
+Isac  :3
+Isac  :3
+Isac  :3
+Isac  :3
+Isac  :3
+Isac  :3
+Isac  :3
+Isac  :3
+Isac  :3
+Isac  :3
+Isac  :3
+Isac  :3
+Isac  :3
+Isac  :3
+Isac  :3
+Isac  :13
+Isac    :26
+Isac      :39
+  Isac      :52
+   Isac      :65
+    Isac      :78
+     Isac      :91
+      Isac       :104
+      Isac        :117
+      Isac         :130
+      Isac          :143
+Isa       c:206
+Isa        c:206
+Isa         c:206
+Isa          c:206
+Isa           c:206
+Isa            c:206
+Isa             c:206
+Isa             c:206
+Isa             c:206
+        Is   a  c                                                   :30
+        Is   a  c                                                   :30
+        Is   a  c                                                   :30
+fe:30
+fe:30
+fe:30
+fe:30
+fe:30
+fe:30
+fe:30
+fe:30
+fe:30
+fe:30
+fe:30
+fe:30
+fe:30
+fe:30
+fe:30
+fe:30
+fe:30
+fe:30
+fe:30
+fe:30
+fe:30
+fe:30
+fe:30
+fe:30
+fe:30
+fe:30
+fe:30
+fe:30
+fe:30
+fe:30
+fe:30
+fe:30
+fe:30
+fe:30
+fe:30
+fe:30
+fe:30
+fe:30
+fe:30
+fe:30
+fe:30
+fe:30
+fe:30
+fe:30
+fe:30
+fe:30
+fe:30
+fe:30
+fe:30
+fe:30
+fe:30
+fe:30
+fe:30
+fe:30
+fe:30
+Isac :13
+Isac     :26
+Isac      :39
+Isac       :52
+Isac        :65
+Isa                                             c                                                              :197
+Isa                                             c                                                                    :200
